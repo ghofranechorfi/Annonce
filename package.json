@@ -1,0 +1,25 @@
+{
+  "name": "Annonce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghofranechorfi/Annonce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghofranechorfi/Annonce/issues"
+  },
+  "homepage": "https://github.com/ghofranechorfi/Annonce#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "handlebars": "^4.7.7",
+    "mysql": "^2.18.1"
+  }
+}
